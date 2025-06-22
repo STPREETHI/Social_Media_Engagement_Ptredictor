@@ -1,1 +1,10 @@
- streamlit pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn plotly prophet
+ streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+plotly
+prophet
